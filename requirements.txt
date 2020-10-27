@@ -1,0 +1,4 @@
+npyscreen
+passlib
+sqlalchemy
+pywin32
